@@ -1,0 +1,2300 @@
+{
+ "generated": "2026-11-13 07:17 UTC",
+ "count": 382,
+ "games": [
+  {
+   "name": "+1 Anime Loot Upgrade",
+   "placeId": 92484997704115,
+   "file": "games/+1 Anime Loot Upgrade [92484997704115].lua",
+   "size": 39355
+  },
+  {
+   "name": "+1 Aura Per Click",
+   "placeId": 109509029034984,
+   "file": "games/+1 Aura Per Click [109509029034984].lua",
+   "size": 55823
+  },
+  {
+   "name": "+1 Backflip Keyboard Escape",
+   "placeId": 102553576537621,
+   "file": "games/+1 Backflip Keyboard Escape [102553576537621].lua",
+   "size": 28202
+  },
+  {
+   "name": "+1 Banana Monkey Destruction",
+   "placeId": 83256791430098,
+   "file": "games/+1 Banana Monkey Destruction [83256791430098].lua",
+   "size": 51817
+  },
+  {
+   "name": "+1 Chop Trees for Treasure",
+   "placeId": 110730550789828,
+   "file": "games/+1 Chop Trees for Treasure [110730550789828].lua",
+   "size": 138813
+  },
+  {
+   "name": "+1 Clone Evolution",
+   "placeId": 120297898552393,
+   "file": "games/+1 Clone Evolution [120297898552393].lua",
+   "size": 78573
+  },
+  {
+   "name": "+1 Cut and Ride Pet",
+   "placeId": 78793646042773,
+   "file": "games/+1 Cut and Ride Pet [78793646042773].lua",
+   "size": 58972
+  },
+  {
+   "name": "+1 Cut Grass Adventure",
+   "placeId": 90086669327265,
+   "file": "games/+1 Cut Grass Adventure [90086669327265].lua",
+   "size": 51195
+  },
+  {
+   "name": "+1 Dino Evolution",
+   "placeId": 103138601755519,
+   "file": "games/+1 Dino Evolution [103138601755519].lua",
+   "size": 69353
+  },
+  {
+   "name": "+1 DMG FPS",
+   "placeId": 100753254401525,
+   "file": "games/+1 DMG FPS [100753254401525].lua",
+   "size": 90777
+  },
+  {
+   "name": "+1 DMG Per Revive",
+   "placeId": 110806816173057,
+   "file": "games/+1 DMG Per Revive [110806816173057].lua",
+   "size": 56021
+  },
+  {
+   "name": "+1 Double Jump Bike Escape!",
+   "placeId": 74218191398494,
+   "file": "games/+1 Double Jump Bike Escape! [74218191398494].lua",
+   "size": 43928
+  },
+  {
+   "name": "+1 Drain Water Per Click",
+   "placeId": 103883942725157,
+   "file": "games/+1 Drain Water Per Click [103883942725157].lua",
+   "size": 61598
+  },
+  {
+   "name": "+1 Drill Blocks for animals",
+   "placeId": 136327778829765,
+   "file": "games/+1 Drill Blocks for animals [136327778829765].lua",
+   "size": 97018
+  },
+  {
+   "name": "+1 Fart to Break Doors",
+   "placeId": 120285538222067,
+   "file": "games/+1 Fart to Break Doors [120285538222067].lua",
+   "size": 83668
+  },
+  {
+   "name": "+1 Fat Per Click",
+   "placeId": 128329680321338,
+   "file": "games/+1 Fat Per Click [128329680321338].lua",
+   "size": 34529
+  },
+  {
+   "name": "+1 Fish Per Click",
+   "placeId": 138831961498372,
+   "file": "games/+1 Fish Per Click [138831961498372].lua",
+   "size": 52004
+  },
+  {
+   "name": "+1 Followers Per Click",
+   "placeId": 98695134949589,
+   "file": "games/+1 Followers Per Click [98695134949589].lua",
+   "size": 45413
+  },
+  {
+   "name": "+1 Football for Brainrots",
+   "placeId": 115564147666832,
+   "file": "games/+1 Football for Brainrots [115564147666832].lua",
+   "size": 52332
+  },
+  {
+   "name": "+1 Fruit Samurai",
+   "placeId": 121143259662420,
+   "file": "games/+1 Fruit Samurai [121143259662420].lua",
+   "size": 99496
+  },
+  {
+   "name": "+1 Hack Per Click",
+   "placeId": 88968590411663,
+   "file": "games/+1 Hack Per Click [88968590411663].lua",
+   "size": 57025
+  },
+  {
+   "name": "+1 Heat Per Click",
+   "placeId": 95570822232841,
+   "file": "games/+1 Heat Per Click [95570822232841].lua",
+   "size": 53022
+  },
+  {
+   "name": "+1 Height Per Jump",
+   "placeId": 137202615981355,
+   "file": "games/+1 Height Per Jump [137202615981355].lua",
+   "size": 38722
+  },
+  {
+   "name": "+1 Horse Evolution",
+   "placeId": 107765897665486,
+   "file": "games/+1 Horse Evolution [107765897665486].lua",
+   "size": 226390
+  },
+  {
+   "name": "+1 Jump Crunchy ASMR Escape!",
+   "placeId": 83264774625004,
+   "file": "games/+1 Jump Crunchy ASMR Escape! [83264774625004].lua",
+   "size": 59433
+  },
+  {
+   "name": "+1 Kitten Keyboard Escape",
+   "placeId": 94860588848140,
+   "file": "games/+1 Kitten Keyboard Escape [94860588848140].lua",
+   "size": 50735
+  },
+  {
+   "name": "+1 Lava Escape",
+   "placeId": 82460561886298,
+   "file": "games/+1 Lava Escape [82460561886298].lua",
+   "size": 41789
+  },
+  {
+   "name": "+1 Long Arm Toy Escape!",
+   "placeId": 74341114342499,
+   "file": "games/+1 Long Arm Toy Escape! [74341114342499].lua",
+   "size": 53805
+  },
+  {
+   "name": "+1 Loot To Forge",
+   "placeId": 118805555015549,
+   "file": "games/+1 Loot To Forge [118805555015549].lua",
+   "size": 107516
+  },
+  {
+   "name": "+1 Mog Evolution",
+   "placeId": 92648272637932,
+   "file": "games/+1 Mog Evolution [92648272637932].lua",
+   "size": 92329
+  },
+  {
+   "name": "+1 Muscle Evolution",
+   "placeId": 133007106457547,
+   "file": "games/+1 Muscle Evolution [133007106457547].lua",
+   "size": 41386
+  },
+  {
+   "name": "+1 Muscles for Prison Escape",
+   "placeId": 99468092262114,
+   "file": "games/+1 Muscles for Prison Escape [99468092262114].lua",
+   "size": 72961
+  },
+  {
+   "name": "+1 Pickaxe Swing Escape",
+   "placeId": 82554996468034,
+   "file": "games/+1 Pickaxe Swing Escape [82554996468034].lua",
+   "size": 24821
+  },
+  {
+   "name": "+1 Poop Per Click",
+   "placeId": 81875183293545,
+   "file": "games/+1 Poop Per Click [81875183293545].lua",
+   "size": 43536
+  },
+  {
+   "name": "+1 Poor To Rich",
+   "placeId": 96003649748017,
+   "file": "games/+1 Poor To Rich [96003649748017].lua",
+   "size": 50230
+  },
+  {
+   "name": "+1 Power Jujutsu Kaisen Evolution",
+   "placeId": 73768088906246,
+   "file": "games/+1 Power Jujutsu Kaisen Evolution [73768088906246].lua",
+   "size": 49257
+  },
+  {
+   "name": "+1 Power Per Click",
+   "placeId": 74889851913797,
+   "file": "games/+1 Power Per Click [74889851913797].lua",
+   "size": 45196
+  },
+  {
+   "name": "+1 Shrink per Step",
+   "placeId": 91695551099066,
+   "file": "games/+1 Shrink per Step [91695551099066].lua",
+   "size": 50558
+  },
+  {
+   "name": "+1 Skinny Per Step",
+   "placeId": 128448883585036,
+   "file": "games/+1 Skinny Per Step [128448883585036].lua",
+   "size": 38919
+  },
+  {
+   "name": "+1 Slash Per Click!",
+   "placeId": 101558013317432,
+   "file": "games/+1 Slash Per Click! [101558013317432].lua",
+   "size": 74600
+  },
+  {
+   "name": "+1 SMASH Walls For Anime Characters!",
+   "placeId": 76196195821497,
+   "file": "games/+1 SMASH Walls For Anime Characters! [76196195821497].lua",
+   "size": 46258
+  },
+  {
+   "name": "+1 Speed Evolve",
+   "placeId": 83569851223739,
+   "file": "games/+1 Speed Evolve [83569851223739].lua",
+   "size": 45778
+  },
+  {
+   "name": "+1 Speed Monkey Escape",
+   "placeId": 114697347887839,
+   "file": "games/+1 Speed Monkey Escape [114697347887839].lua",
+   "size": 48768
+  },
+  {
+   "name": "+1 Speed Ninja Keyboard Escape",
+   "placeId": 90740816183375,
+   "file": "games/+1 Speed Ninja Keyboard Escape [90740816183375].lua",
+   "size": 71576
+  },
+  {
+   "name": "+1 Speed Plane Escape",
+   "placeId": 114688126725619,
+   "file": "games/+1 Speed Plane Escape [114688126725619].lua",
+   "size": 256157
+  },
+  {
+   "name": "+1 Speed Squirrel Escape",
+   "placeId": 73613510857111,
+   "file": "games/+1 Speed Squirrel Escape [73613510857111].lua",
+   "size": 2706140
+  },
+  {
+   "name": "+1 Speedster Escape",
+   "placeId": 85065221510105,
+   "file": "games/+1 Speedster Escape [85065221510105].lua",
+   "size": 58527
+  },
+  {
+   "name": "+1 Spider Evolution",
+   "placeId": 135830878717711,
+   "file": "games/+1 Spider Evolution [135830878717711].lua",
+   "size": 58526
+  },
+  {
+   "name": "+1 Spinjitsu Escape",
+   "placeId": 131910189515331,
+   "file": "games/+1 Spinjitsu Escape [131910189515331].lua",
+   "size": 56739
+  },
+  {
+   "name": "+1 Stand Power Evolution",
+   "placeId": 82598548574073,
+   "file": "games/+1 Stand Power Evolution [82598548574073].lua",
+   "size": 45262
+  },
+  {
+   "name": "+1 Stone Skipping",
+   "placeId": 111543903102439,
+   "file": "games/+1 Stone Skipping [111543903102439].lua",
+   "size": 59159
+  },
+  {
+   "name": "+1 Strength for Eggs",
+   "placeId": 98610101874791,
+   "file": "games/+1 Strength for Eggs [98610101874791].lua",
+   "size": 83715
+  },
+  {
+   "name": "+1 Strength to Grow Your Arm",
+   "placeId": 86259628805375,
+   "file": "games/+1 Strength to Grow Your Arm [86259628805375].lua",
+   "size": 98748
+  },
+  {
+   "name": "+1 Superhero Evolution",
+   "placeId": 97824450589417,
+   "file": "games/+1 Superhero Evolution [97824450589417].lua",
+   "size": 57708
+  },
+  {
+   "name": "+1 Sword Fighting Escape",
+   "placeId": 71132391335247,
+   "file": "games/+1 Sword Fighting Escape [71132391335247].lua",
+   "size": 59388
+  },
+  {
+   "name": "+1 Sword vs Anime",
+   "placeId": 72600023868608,
+   "file": "games/+1 Sword vs Anime [72600023868608].lua",
+   "size": 82016
+  },
+  {
+   "name": "+1 Tall to Escape",
+   "placeId": 140334945309841,
+   "file": "games/+1 Tall to Escape [140334945309841].lua",
+   "size": 72649
+  },
+  {
+   "name": "+1 TNT Mining",
+   "placeId": 101304595834078,
+   "file": "games/+1 TNT Mining [101304595834078].lua",
+   "size": 89480
+  },
+  {
+   "name": "+1 Tongue Escape",
+   "placeId": 122245938604556,
+   "file": "games/+1 Tongue Escape [122245938604556].lua",
+   "size": 74882
+  },
+  {
+   "name": "+1 Web Swing Escape",
+   "placeId": 110668201954727,
+   "file": "games/+1 Web Swing Escape [110668201954727].lua",
+   "size": 47439
+  },
+  {
+   "name": "+1 Weight Escape",
+   "placeId": 134129939916744,
+   "file": "games/+1 Weight Escape [134129939916744].lua",
+   "size": 192420
+  },
+  {
+   "name": "+1 Wings for Brainrots",
+   "placeId": 84332574190497,
+   "file": "games/+1 Wings for Brainrots [84332574190497].lua",
+   "size": 55731
+  },
+  {
+   "name": "+1 Wings For Eggs",
+   "placeId": 80242821185181,
+   "file": "games/+1 Wings For Eggs [80242821185181].lua",
+   "size": 130874
+  },
+  {
+   "name": "2omething evil will happen",
+   "placeId": 16991287194,
+   "file": "games/2omething evil will happen [16991287194].lua",
+   "size": 16198
+  },
+  {
+   "name": "50 Player BINGO!",
+   "placeId": 131479356121251,
+   "file": "games/50 Player BINGO! [131479356121251].lua",
+   "size": 34460
+  },
+  {
+   "name": "Age Evolution Tycoon",
+   "placeId": 96469185605358,
+   "file": "games/Age Evolution Tycoon [96469185605358].lua",
+   "size": 40694
+  },
+  {
+   "name": "Airport Tycoon",
+   "placeId": 138486812747835,
+   "file": "games/Airport Tycoon [138486812747835].lua",
+   "size": 46342
+  },
+  {
+   "name": "Anime Astral Simulator",
+   "placeId": 102072869879193,
+   "file": "games/Anime Astral Simulator [102072869879193].lua",
+   "size": 50150
+  },
+  {
+   "name": "Anime Astral Simulator (anime-world-fighters)",
+   "placeId": 102072869879193,
+   "file": "games/Anime Astral Simulator [102072869879193] (anime-world-fighters).lua",
+   "size": 73296
+  },
+  {
+   "name": "Anime Battle RNG",
+   "placeId": 115808762898625,
+   "file": "games/Anime Battle RNG [115808762898625].lua",
+   "size": 113196
+  },
+  {
+   "name": "Anime Card Farm",
+   "placeId": 125039473548047,
+   "file": "games/Anime Card Farm [125039473548047].lua",
+   "size": 125737
+  },
+  {
+   "name": "Anime Dice",
+   "placeId": 113290951185459,
+   "file": "games/Anime Dice [113290951185459].lua",
+   "size": 185044
+  },
+  {
+   "name": "Anime Expeditions",
+   "placeId": 84515722934860,
+   "file": "games/Anime Expeditions [84515722934860].lua",
+   "size": 542749
+  },
+  {
+   "name": "Anime Girl Paint by Numbers",
+   "placeId": 129300814231343,
+   "file": "games/Anime Girl Paint by Numbers [129300814231343].lua",
+   "size": 62560
+  },
+  {
+   "name": "Anime Jackpot",
+   "placeId": 117616339044619,
+   "file": "games/Anime Jackpot [117616339044619].lua",
+   "size": 51717
+  },
+  {
+   "name": "Anime Overseer",
+   "placeId": null,
+   "file": "games/Anime Overseer.lua",
+   "multi": true,
+   "size": 67414
+  },
+  {
+   "name": "Anime RNG",
+   "placeId": 126358239678451,
+   "file": "games/Anime RNG [126358239678451].lua",
+   "size": 216754
+  },
+  {
+   "name": "Anime RNG Defense",
+   "placeId": 104693964860826,
+   "file": "games/Anime RNG Defense [104693964860826].lua",
+   "size": 7574
+  },
+  {
+   "name": "Anime Souls",
+   "placeId": 118884500321949,
+   "file": "games/Anime Souls [118884500321949].lua",
+   "size": 34697
+  },
+  {
+   "name": "Anime Squadron",
+   "placeId": 71132543521245,
+   "file": "games/Anime Squadron [71132543521245].lua",
+   "size": 535310
+  },
+  {
+   "name": "Anime Story 2 The Final Novel",
+   "placeId": 116766451305209,
+   "file": "games/Anime Story 2 The Final Novel [116766451305209].lua",
+   "size": 53746
+  },
+  {
+   "name": "Anime Ultron Simulator",
+   "placeId": 111409347044446,
+   "file": "games/Anime Ultron Simulator [111409347044446].lua",
+   "size": 86646
+  },
+  {
+   "name": "Anime War RNG",
+   "placeId": 79908803570376,
+   "file": "games/Anime War RNG [79908803570376].lua",
+   "size": 53936
+  },
+  {
+   "name": "Anomaly Garden",
+   "placeId": 114302935980927,
+   "file": "games/Anomaly Garden [114302935980927].lua",
+   "size": 88456
+  },
+  {
+   "name": "Aura For Brainrots",
+   "placeId": 122526789002601,
+   "file": "games/Aura For Brainrots [122526789002601].lua",
+   "size": 54053
+  },
+  {
+   "name": "Automate a Restaurant",
+   "placeId": 101670277171204,
+   "file": "games/Automate a Restaurant [101670277171204].lua",
+   "size": 52444
+  },
+  {
+   "name": "Axe RNG",
+   "placeId": 121863161094252,
+   "file": "games/Axe RNG [121863161094252].lua",
+   "size": 137684
+  },
+  {
+   "name": "Backflip for Animals!",
+   "placeId": 88611017452341,
+   "file": "games/Backflip for Animals! [88611017452341].lua",
+   "size": 81445
+  },
+  {
+   "name": "Backrooms Simulator",
+   "placeId": 126061186342944,
+   "file": "games/Backrooms Simulator [126061186342944].lua",
+   "size": 67499
+  },
+  {
+   "name": "Basketball Dynasty",
+   "placeId": 91696807303847,
+   "file": "games/Basketball Dynasty [91696807303847].lua",
+   "size": 68738
+  },
+  {
+   "name": "BE A FISH BAIT! SCI-FI UPD",
+   "placeId": 99702578544768,
+   "file": "games/BE A FISH BAIT! SCI-FI UPD [99702578544768].lua",
+   "size": 30276
+  },
+  {
+   "name": "Be Monkey For Brainrots!",
+   "placeId": 76984077812388,
+   "file": "games/Be Monkey For Brainrots! [76984077812388].lua",
+   "size": 47535
+  },
+  {
+   "name": "Be The Final Boss",
+   "placeId": 140302982046391,
+   "file": "games/Be The Final Boss [140302982046391].lua",
+   "size": 66863
+  },
+  {
+   "name": "Beat the Anime Boss!",
+   "placeId": 129216769649527,
+   "file": "games/Beat the Anime Boss! [129216769649527].lua",
+   "size": 48125
+  },
+  {
+   "name": "Become a Billionaire",
+   "placeId": 90704250333473,
+   "file": "games/Become a Billionaire [90704250333473].lua",
+   "size": 25140
+  },
+  {
+   "name": "Bee ReMasters",
+   "placeId": null,
+   "file": "games/Bee ReMasters.lua",
+   "multi": true,
+   "size": 103431
+  },
+  {
+   "name": "Bid for Anime!",
+   "placeId": 87274635966213,
+   "file": "games/Bid for Anime! [87274635966213].lua",
+   "size": 35065
+  },
+  {
+   "name": "Bid For Soccer Cards!",
+   "placeId": 73578698401320,
+   "file": "games/Bid For Soccer Cards! [73578698401320].lua",
+   "size": 59002
+  },
+  {
+   "name": "Blow up Lucky Blocks For Cars",
+   "placeId": 77084002576266,
+   "file": "games/Blow up Lucky Blocks For Cars [77084002576266].lua",
+   "size": 48335
+  },
+  {
+   "name": "Blue Lock Farm",
+   "placeId": 132767904294856,
+   "file": "games/Blue Lock Farm [132767904294856].lua",
+   "size": 282297
+  },
+  {
+   "name": "Bomb Fishing!",
+   "placeId": 118677256126351,
+   "file": "games/Bomb Fishing! [118677256126351].lua",
+   "size": 40592
+  },
+  {
+   "name": "Brainrot Card Battles",
+   "placeId": 124124395449044,
+   "file": "games/Brainrot Card Battles [124124395449044].lua",
+   "size": 69317
+  },
+  {
+   "name": "Brainrot Sniper",
+   "placeId": 95223801959482,
+   "file": "games/Brainrot Sniper [95223801959482].lua",
+   "size": 51954
+  },
+  {
+   "name": "Break an Egg!",
+   "placeId": 128683790553857,
+   "file": "games/Break an Egg! [128683790553857].lua",
+   "size": 87388
+  },
+  {
+   "name": "Break and Steal an Egg",
+   "placeId": 114326934417838,
+   "file": "games/Break and Steal an Egg [114326934417838].lua",
+   "size": 568361
+  },
+  {
+   "name": "Break For Anime!",
+   "placeId": 83337738588990,
+   "file": "games/Break For Anime! [83337738588990].lua",
+   "size": 63132
+  },
+  {
+   "name": "Break Tape For Brainrots",
+   "placeId": 104339804279870,
+   "file": "games/Break Tape For Brainrots [104339804279870].lua",
+   "size": 40369
+  },
+  {
+   "name": "Break Walls for Brainrots!",
+   "placeId": 123708462523153,
+   "file": "games/Break Walls for Brainrots! [123708462523153].lua",
+   "size": 65612
+  },
+  {
+   "name": "BreakDoor",
+   "placeId": 119004860768199,
+   "file": "games/BreakDoor [119004860768199].lua",
+   "size": 43498
+  },
+  {
+   "name": "Build a Base and Steal",
+   "placeId": 132016691802922,
+   "file": "games/Build a Base and Steal [132016691802922].lua",
+   "size": 19907
+  },
+  {
+   "name": "Build a Bee Swarm",
+   "placeId": 113398232239418,
+   "file": "games/Build a Bee Swarm [113398232239418].lua",
+   "size": 58609
+  },
+  {
+   "name": "Build A Cart",
+   "placeId": 127590941940388,
+   "file": "games/Build A Cart [127590941940388].lua",
+   "size": 53953
+  },
+  {
+   "name": "Build A Clone Obby",
+   "placeId": 136871790892566,
+   "file": "games/Build A Clone Obby [136871790892566].lua",
+   "size": 78136
+  },
+  {
+   "name": "Build a Garden Tower",
+   "placeId": 115035699922620,
+   "file": "games/Build a Garden Tower [115035699922620].lua",
+   "size": 63897
+  },
+  {
+   "name": "Build A Golem!",
+   "placeId": 78091651370612,
+   "file": "games/Build A Golem! [78091651370612].lua",
+   "size": 55487
+  },
+  {
+   "name": "Build a Gun Army",
+   "placeId": 134162299584012,
+   "file": "games/Build a Gun Army [134162299584012].lua",
+   "size": 55452
+  },
+  {
+   "name": "Build a Keyboard",
+   "placeId": 91679585668032,
+   "file": "games/Build a Keyboard [91679585668032].lua",
+   "size": 22431
+  },
+  {
+   "name": "Build A Pet Factory",
+   "placeId": 135729108619936,
+   "file": "games/Build A Pet Factory [135729108619936].lua",
+   "size": 36030
+  },
+  {
+   "name": "Build A Solar Farm",
+   "placeId": 89790257708758,
+   "file": "games/Build A Solar Farm [89790257708758].lua",
+   "size": 75813
+  },
+  {
+   "name": "Build a Zoo",
+   "placeId": 105555311806207,
+   "file": "games/Build a Zoo [105555311806207].lua",
+   "size": 42232
+  },
+  {
+   "name": "Build an AI",
+   "placeId": 84637477108843,
+   "file": "games/Build an AI [84637477108843].lua",
+   "size": 81033
+  },
+  {
+   "name": "Build An Ant Empire",
+   "placeId": 78490532994307,
+   "file": "games/Build An Ant Empire [78490532994307].lua",
+   "size": 279270
+  },
+  {
+   "name": "Build An Ore Farm",
+   "placeId": 103923778951081,
+   "file": "games/Build An Ore Farm [103923778951081].lua",
+   "size": 60594
+  },
+  {
+   "name": "Build An Ore Farm",
+   "placeId": 80742451189972,
+   "file": "games/Build An Ore Farm [80742451189972].lua",
+   "size": 99247
+  },
+  {
+   "name": "Build Base to Survive VERITY",
+   "placeId": 116070952245255,
+   "file": "games/Build Base to Survive VERITY [116070952245255].lua",
+   "size": 51393
+  },
+  {
+   "name": "Build Golems and Fight",
+   "placeId": 101145494627874,
+   "file": "games/Build Golems and Fight [101145494627874].lua",
+   "size": 74444
+  },
+  {
+   "name": "Build the Pyramid!",
+   "placeId": 123720558354386,
+   "file": "games/Build the Pyramid! [123720558354386].lua",
+   "size": 80099
+  },
+  {
+   "name": "BUILD your Butterfly Garden",
+   "placeId": 126003539836478,
+   "file": "games/BUILD your Butterfly Garden [126003539836478].lua",
+   "size": 71866
+  },
+  {
+   "name": "Burgir Incremental",
+   "placeId": 77807408969161,
+   "file": "games/Burgir Incremental [77807408969161].lua",
+   "size": 70225
+  },
+  {
+   "name": "Cake Mountain",
+   "placeId": 83733952151811,
+   "file": "games/Cake Mountain [83733952151811].lua",
+   "size": 36940
+  },
+  {
+   "name": "Capybaras VS Plants",
+   "placeId": 104973076655377,
+   "file": "games/Capybaras VS Plants [104973076655377].lua",
+   "size": 220231
+  },
+  {
+   "name": "Cars VS Tape",
+   "placeId": 98393605725180,
+   "file": "games/Cars VS Tape [98393605725180].lua",
+   "size": 41177
+  },
+  {
+   "name": "Carve Wood!",
+   "placeId": 82712304391069,
+   "file": "games/Carve Wood! [82712304391069].lua",
+   "size": 65427
+  },
+  {
+   "name": "Case Paradise",
+   "placeId": 118637423917462,
+   "file": "games/Case Paradise [118637423917462].lua",
+   "size": 46689
+  },
+  {
+   "name": "Catch 1 Billion Ducks",
+   "placeId": 100293509865504,
+   "file": "games/Catch 1 Billion Ducks [100293509865504].lua",
+   "size": 119910
+  },
+  {
+   "name": "Catch a Monster",
+   "placeId": 98664161516921,
+   "file": "games/Catch a Monster [98664161516921].lua",
+   "size": 35712
+  },
+  {
+   "name": "Catch And Tame!",
+   "placeId": 96645548064314,
+   "file": "games/Catch And Tame! [96645548064314].lua",
+   "size": 113873
+  },
+  {
+   "name": "Catch Dragons To Defend",
+   "placeId": 102392235728099,
+   "file": "games/Catch Dragons To Defend [102392235728099].lua",
+   "size": 74963
+  },
+  {
+   "name": "Chicken Farm",
+   "placeId": 137233438285284,
+   "file": "games/Chicken Farm [137233438285284].lua",
+   "size": 9770
+  },
+  {
+   "name": "Choose the Stronger Anime!",
+   "placeId": 111801263516291,
+   "file": "games/Choose the Stronger Anime! [111801263516291].lua",
+   "size": 97974
+  },
+  {
+   "name": "Claw Fishing",
+   "placeId": 128931272139211,
+   "file": "games/Claw Fishing [128931272139211].lua",
+   "size": 35518
+  },
+  {
+   "name": "Clean all the Leaves",
+   "placeId": 92637789841354,
+   "file": "games/Clean all the Leaves [92637789841354].lua",
+   "size": 74702
+  },
+  {
+   "name": "Clean the WORLD!",
+   "placeId": 105767799784652,
+   "file": "games/Clean the WORLD! [105767799784652].lua",
+   "size": 38163
+  },
+  {
+   "name": "Clean Your Keycaps",
+   "placeId": 82745432464897,
+   "file": "games/Clean Your Keycaps [82745432464897].lua",
+   "size": 25324
+  },
+  {
+   "name": "Clicker Simulator!",
+   "placeId": 134719268825886,
+   "file": "games/Clicker Simulator! [134719268825886].lua",
+   "size": 246441
+  },
+  {
+   "name": "Clicker Simulator!",
+   "placeId": 138408007583179,
+   "file": "games/Clicker Simulator! [138408007583179].lua",
+   "size": 93155
+  },
+  {
+   "name": "Cliff Mansion Tycoon",
+   "placeId": 88015023779741,
+   "file": "games/Cliff Mansion Tycoon [88015023779741].lua",
+   "size": 35803
+  },
+  {
+   "name": "Climb and Drop a Lucky Block",
+   "placeId": 96401370703274,
+   "file": "games/Climb and Drop a Lucky Block [96401370703274].lua",
+   "size": 65015
+  },
+  {
+   "name": "Climb Waterslide and Slide",
+   "placeId": 139617346573330,
+   "file": "games/Climb Waterslide and Slide [139617346573330].lua",
+   "size": 39587
+  },
+  {
+   "name": "Clone to Steal Eggs",
+   "placeId": 76943966208523,
+   "file": "games/Clone to Steal Eggs [76943966208523].lua",
+   "size": 135352
+  },
+  {
+   "name": "Coach a Fighter!",
+   "placeId": 111517697993641,
+   "file": "games/Coach a Fighter! [111517697993641].lua",
+   "size": 44355
+  },
+  {
+   "name": "Coin Flip",
+   "placeId": 99416896791343,
+   "file": "games/Coin Flip [99416896791343].lua",
+   "size": 52568
+  },
+  {
+   "name": "Collect 1 Million Items",
+   "placeId": 133363783004873,
+   "file": "games/Collect 1 Million Items [133363783004873].lua",
+   "size": 48192
+  },
+  {
+   "name": "Collect Cars and Race",
+   "placeId": 120579221585812,
+   "file": "games/Collect Cars and Race [120579221585812].lua",
+   "size": 67289
+  },
+  {
+   "name": "Collect The Alphabet",
+   "placeId": 127103413498148,
+   "file": "games/Collect The Alphabet [127103413498148].lua",
+   "size": 52343
+  },
+  {
+   "name": "Cook & Sell!",
+   "placeId": 106131416903029,
+   "file": "games/Cook & Sell! [106131416903029].lua",
+   "size": 59221
+  },
+  {
+   "name": "Cowboy DUELS",
+   "placeId": 131103239963274,
+   "file": "games/Cowboy DUELS [131103239963274].lua",
+   "size": 48968
+  },
+  {
+   "name": "Cows RNG",
+   "placeId": 130190834497309,
+   "file": "games/Cows RNG [130190834497309].lua",
+   "size": 57524
+  },
+  {
+   "name": "Cultivation Evermortal",
+   "placeId": 96179204081384,
+   "file": "games/Cultivation Evermortal [96179204081384].lua",
+   "size": 113925
+  },
+  {
+   "name": "Cut a Gem",
+   "placeId": 111773649152177,
+   "file": "games/Cut a Gem [111773649152177].lua",
+   "size": 63872
+  },
+  {
+   "name": "Death Order Simon Says",
+   "placeId": 18666738837,
+   "file": "games/Death Order Simon Says [18666738837].lua",
+   "size": 152778
+  },
+  {
+   "name": "Deep Fishing",
+   "placeId": 132239307080610,
+   "file": "games/Deep Fishing [132239307080610].lua",
+   "size": 68527
+  },
+  {
+   "name": "Defeat Anime RNG",
+   "placeId": 92606991708989,
+   "file": "games/Defeat Anime RNG [92606991708989].lua",
+   "size": 223859
+  },
+  {
+   "name": "Defend my Ring Farm",
+   "placeId": 71245877600560,
+   "file": "games/Defend my Ring Farm [71245877600560].lua",
+   "size": 72164
+  },
+  {
+   "name": "Defend ur base with anime",
+   "placeId": 105031185134358,
+   "file": "games/Defend ur base with anime [105031185134358].lua",
+   "size": 88141
+  },
+  {
+   "name": "Defend Your Animals!",
+   "placeId": 84210392569061,
+   "file": "games/Defend Your Animals! [84210392569061].lua",
+   "size": 121592
+  },
+  {
+   "name": "Defend Your Plushie! TD",
+   "placeId": 116501341774429,
+   "file": "games/Defend Your Plushie! TD [116501341774429].lua",
+   "size": 45616
+  },
+  {
+   "name": "Defend Your Treehouse!",
+   "placeId": 100641654440407,
+   "file": "games/Defend Your Treehouse! [100641654440407].lua",
+   "size": 122045
+  },
+  {
+   "name": "Destroy a House",
+   "placeId": 125495618008505,
+   "file": "games/Destroy a House [125495618008505].lua",
+   "size": 104838
+  },
+  {
+   "name": "Dig & Clean",
+   "placeId": 83038462357724,
+   "file": "games/Dig & Clean [83038462357724].lua",
+   "size": 93287
+  },
+  {
+   "name": "Dig Into Secrets",
+   "placeId": 119409763193569,
+   "file": "games/Dig Into Secrets [119409763193569].lua",
+   "size": 54987
+  },
+  {
+   "name": "Dino Hunters",
+   "placeId": 119031147890918,
+   "file": "games/Dino Hunters [119031147890918].lua",
+   "size": 54710
+  },
+  {
+   "name": "Don t Steal the Bobo",
+   "placeId": 120135584963579,
+   "file": "games/Don t Steal the Bobo [120135584963579].lua",
+   "size": 33658
+  },
+  {
+   "name": "Dragon Adventures",
+   "placeId": 3475397644,
+   "file": "games/Dragon Adventures [3475397644].lua",
+   "size": 78461
+  },
+  {
+   "name": "Dream Car Collection",
+   "placeId": 76841016201110,
+   "file": "games/Dream Car Collection [76841016201110].lua",
+   "size": 235500
+  },
+  {
+   "name": "Dream Keyboard Escape",
+   "placeId": 129350834403009,
+   "file": "games/Dream Keyboard Escape [129350834403009].lua",
+   "size": 88611
+  },
+  {
+   "name": "Drill Blocks for Brainrots",
+   "placeId": 78177131121429,
+   "file": "games/Drill Blocks for Brainrots [78177131121429].lua",
+   "size": 53752
+  },
+  {
+   "name": "Drill for Anime",
+   "placeId": 117459530347460,
+   "file": "games/Drill for Anime [117459530347460].lua",
+   "size": 53075
+  },
+  {
+   "name": "Drive-Thru Empire",
+   "placeId": 88271351034688,
+   "file": "games/Drive-Thru Empire [88271351034688].lua",
+   "size": 71394
+  },
+  {
+   "name": "Dungeon Lootr",
+   "placeId": 106484206883664,
+   "file": "games/Dungeon Lootr [106484206883664].lua",
+   "size": 286706
+  },
+  {
+   "name": "Dungeon Quest Reborn",
+   "placeId": 77649408247578,
+   "file": "games/Dungeon Quest Reborn [77649408247578].lua",
+   "size": 14388
+  },
+  {
+   "name": "Endless Tower Defense",
+   "placeId": 109792243252518,
+   "file": "games/Endless Tower Defense [109792243252518].lua",
+   "size": 117916
+  },
+  {
+   "name": "Evomon",
+   "placeId": 134381727982611,
+   "file": "games/Evomon [134381727982611].lua",
+   "size": 232883
+  },
+  {
+   "name": "Farm a Fish",
+   "placeId": 91296119701853,
+   "file": "games/Farm a Fish [91296119701853].lua",
+   "size": 85209
+  },
+  {
+   "name": "Farm an Island",
+   "placeId": 78769336859161,
+   "file": "games/Farm an Island [78769336859161].lua",
+   "size": 41150
+  },
+  {
+   "name": "Farm RNG",
+   "placeId": 124017387606323,
+   "file": "games/Farm RNG [124017387606323].lua",
+   "size": 115032
+  },
+  {
+   "name": "Farmers Market",
+   "placeId": 108479378357844,
+   "file": "games/Farmers Market [108479378357844].lua",
+   "size": 57205
+  },
+  {
+   "name": "Fill Water Tanks",
+   "placeId": 113461233137974,
+   "file": "games/Fill Water Tanks [113461233137974].lua",
+   "size": 50032
+  },
+  {
+   "name": "Final Swarm",
+   "placeId": 99521272836282,
+   "file": "games/Final Swarm [99521272836282].lua",
+   "size": 65925
+  },
+  {
+   "name": "Find the Needle!",
+   "placeId": 83238501165241,
+   "file": "games/Find the Needle! [83238501165241].lua",
+   "size": 47830
+  },
+  {
+   "name": "Fish an Anime RNG",
+   "placeId": 74729868188364,
+   "file": "games/Fish an Anime RNG [74729868188364].lua",
+   "size": 119979
+  },
+  {
+   "name": "Fish an EGG from Rivers",
+   "placeId": 101672855717389,
+   "file": "games/Fish an EGG from Rivers [101672855717389].lua",
+   "size": 74385
+  },
+  {
+   "name": "Fish For Junk",
+   "placeId": 132010220154773,
+   "file": "games/Fish For Junk [132010220154773].lua",
+   "size": 46732
+  },
+  {
+   "name": "Fishing Chef",
+   "placeId": 88599461076137,
+   "file": "games/Fishing Chef [88599461076137].lua",
+   "size": 76098
+  },
+  {
+   "name": "Fishing Wars",
+   "placeId": 106605020123719,
+   "file": "games/Fishing Wars [106605020123719].lua",
+   "size": 73391
+  },
+  {
+   "name": "Forge and Sell",
+   "placeId": 95942361689346,
+   "file": "games/Forge and Sell [95942361689346].lua",
+   "size": 51299
+  },
+  {
+   "name": "Fruit Zombie Survival",
+   "placeId": 75290583112878,
+   "file": "games/Fruit Zombie Survival [75290583112878].lua",
+   "size": 84203
+  },
+  {
+   "name": "Garden Cleaner Evolution",
+   "placeId": 89907728898683,
+   "file": "games/Garden Cleaner Evolution [89907728898683].lua",
+   "size": 39719
+  },
+  {
+   "name": "Garden Horizons",
+   "placeId": 130594398886540,
+   "file": "games/Garden Horizons [130594398886540].lua",
+   "size": 39313
+  },
+  {
+   "name": "Get Fat to Break Tape",
+   "placeId": 75568173037446,
+   "file": "games/Get Fat to Break Tape [75568173037446].lua",
+   "size": 45202
+  },
+  {
+   "name": "Greedy Brainrots",
+   "placeId": 83220467866714,
+   "file": "games/Greedy Brainrots [83220467866714].lua",
+   "size": 59041
+  },
+  {
+   "name": "Greedy Growers",
+   "placeId": 74102906764176,
+   "file": "games/Greedy Growers [74102906764176].lua",
+   "size": 142541
+  },
+  {
+   "name": "Grow a Beehive",
+   "placeId": 88891488197895,
+   "file": "games/Grow a Beehive [88891488197895].lua",
+   "size": 24362
+  },
+  {
+   "name": "Grow a Chicken Fighter",
+   "placeId": 94640181989498,
+   "file": "games/Grow a Chicken Fighter [94640181989498].lua",
+   "size": 76090
+  },
+  {
+   "name": "Grow It RNG",
+   "placeId": 78292727217500,
+   "file": "games/Grow It RNG [78292727217500].lua",
+   "size": 72109
+  },
+  {
+   "name": "Hack A Business",
+   "placeId": 118055952211055,
+   "file": "games/Hack A Business [118055952211055].lua",
+   "size": 34630
+  },
+  {
+   "name": "Hatch And Fry!",
+   "placeId": 124472567087489,
+   "file": "games/Hatch And Fry! [124472567087489].lua",
+   "size": 73190
+  },
+  {
+   "name": "Heavyweight Fishing",
+   "placeId": 98502499119821,
+   "file": "games/Heavyweight Fishing [98502499119821].lua",
+   "size": 197471
+  },
+  {
+   "name": "Heroes RNG",
+   "placeId": 108307565942574,
+   "file": "games/Heroes RNG [108307565942574].lua",
+   "size": 48215
+  },
+  {
+   "name": "Hit a Golf Ball",
+   "placeId": 138363592957250,
+   "file": "games/Hit a Golf Ball [138363592957250].lua",
+   "size": 44370
+  },
+  {
+   "name": "Hole Fishing",
+   "placeId": 80158232099900,
+   "file": "games/Hole Fishing [80158232099900].lua",
+   "size": 67867
+  },
+  {
+   "name": "Hotel Tycoon",
+   "placeId": 16345149114,
+   "file": "games/Hotel Tycoon [16345149114].lua",
+   "size": 34981
+  },
+  {
+   "name": "Hunting Season",
+   "placeId": 5286116071,
+   "file": "games/Hunting Season [5286116071].lua",
+   "size": 89736
+  },
+  {
+   "name": "Idle Mafia Game",
+   "placeId": 73897506680154,
+   "file": "games/Idle Mafia Game [73897506680154].lua",
+   "size": 97295
+  },
+  {
+   "name": "Jump Beanstalk for Brainrots!",
+   "placeId": 82890021382517,
+   "file": "games/Jump Beanstalk for Brainrots! [82890021382517].lua",
+   "size": 79397
+  },
+  {
+   "name": "Jump for Animals!",
+   "placeId": 126870639873289,
+   "file": "games/Jump for Animals! [126870639873289].lua",
+   "size": 142718
+  },
+  {
+   "name": "Jump To Steal An Egg",
+   "placeId": 106383201135975,
+   "file": "games/Jump To Steal An Egg [106383201135975].lua",
+   "size": 76286
+  },
+  {
+   "name": "Jump To Steal SCP Monsters!",
+   "placeId": 123724279728430,
+   "file": "games/Jump To Steal SCP Monsters! [123724279728430].lua",
+   "size": 86873
+  },
+  {
+   "name": "Jump To Steal Slime",
+   "placeId": 131776241538171,
+   "file": "games/Jump To Steal Slime [131776241538171].lua",
+   "size": 58747
+  },
+  {
+   "name": "Jump To Steal Soccer Players",
+   "placeId": 133294838637122,
+   "file": "games/Jump To Steal Soccer Players [133294838637122].lua",
+   "size": 32067
+  },
+  {
+   "name": "Karinderya!",
+   "placeId": 116497287371701,
+   "file": "games/Karinderya! [116497287371701].lua",
+   "size": 134390
+  },
+  {
+   "name": "Kawaii Anime RNG",
+   "placeId": 104263864475588,
+   "file": "games/Kawaii Anime RNG [104263864475588].lua",
+   "size": 43897
+  },
+  {
+   "name": "Kick an Uma",
+   "placeId": 74968636725538,
+   "file": "games/Kick an Uma [74968636725538].lua",
+   "size": 113329
+  },
+  {
+   "name": "Kick Ball to Space",
+   "placeId": 127634932179327,
+   "file": "games/Kick Ball to Space [127634932179327].lua",
+   "size": 23548
+  },
+  {
+   "name": "Lake Sipping",
+   "placeId": 119715129239364,
+   "file": "games/Lake Sipping [119715129239364].lua",
+   "size": 127448
+  },
+  {
+   "name": "Last Stop",
+   "placeId": 85967844112283,
+   "file": "games/Last Stop [85967844112283].lua",
+   "size": 107973
+  },
+  {
+   "name": "Launch A Nuke!",
+   "placeId": 132906917070002,
+   "file": "games/Launch A Nuke! [132906917070002].lua",
+   "size": 160326
+  },
+  {
+   "name": "Launch a Wheel!",
+   "placeId": 18916922845,
+   "file": "games/Launch a Wheel! [18916922845].lua",
+   "size": 104052
+  },
+  {
+   "name": "Lift a Cube",
+   "placeId": 109530157755211,
+   "file": "games/Lift a Cube [109530157755211].lua",
+   "size": 55115
+  },
+  {
+   "name": "Load The Truck!",
+   "placeId": 120491560796071,
+   "file": "games/Load The Truck! [120491560796071].lua",
+   "size": 27603
+  },
+  {
+   "name": "Loot RNG",
+   "placeId": 118575129990331,
+   "file": "games/Loot RNG [118575129990331].lua",
+   "size": 104466
+  },
+  {
+   "name": "Lowball",
+   "placeId": 135512068353850,
+   "file": "games/Lowball [135512068353850].lua",
+   "size": 87561
+  },
+  {
+   "name": "Lucky Block Rush",
+   "placeId": 84575720768520,
+   "file": "games/Lucky Block Rush [84575720768520].lua",
+   "size": 148331
+  },
+  {
+   "name": "Magnet Fishing",
+   "placeId": 83717725495693,
+   "file": "games/Magnet Fishing [83717725495693].lua",
+   "size": 79570
+  },
+  {
+   "name": "Make a Drill Farm",
+   "placeId": 79315121100812,
+   "file": "games/Make a Drill Farm [79315121100812].lua",
+   "size": 29297
+  },
+  {
+   "name": "Make Hotsauce",
+   "placeId": 122391683154858,
+   "file": "games/Make Hotsauce [122391683154858].lua",
+   "size": 37241
+  },
+  {
+   "name": "Make Soccer Players",
+   "placeId": 78053126230950,
+   "file": "games/Make Soccer Players [78053126230950].lua",
+   "size": 60647
+  },
+  {
+   "name": "Mansion Tycoon",
+   "placeId": 12912731475,
+   "file": "games/Mansion Tycoon [12912731475].lua",
+   "size": 39308
+  },
+  {
+   "name": "Merge & Dig Simulator!",
+   "placeId": 74569490529875,
+   "file": "games/Merge & Dig Simulator! [74569490529875].lua",
+   "size": 68985
+  },
+  {
+   "name": "Merge a Black Hole",
+   "placeId": 118605709428489,
+   "file": "games/Merge a Black Hole [118605709428489].lua",
+   "size": 27351
+  },
+  {
+   "name": "Merge a Dino",
+   "placeId": 84546345526935,
+   "file": "games/Merge a Dino [84546345526935].lua",
+   "size": 58006
+  },
+  {
+   "name": "Merge a Mini Army",
+   "placeId": 105724836892064,
+   "file": "games/Merge a Mini Army [105724836892064].lua",
+   "size": 245435
+  },
+  {
+   "name": "Merge a Mob!",
+   "placeId": 132097599643482,
+   "file": "games/Merge a Mob! [132097599643482].lua",
+   "size": 41646
+  },
+  {
+   "name": "Merge a Nuke!",
+   "placeId": 128784467030899,
+   "file": "games/Merge a Nuke! [128784467030899].lua",
+   "size": 21310
+  },
+  {
+   "name": "Merge a Spinner!",
+   "placeId": 101396571928321,
+   "file": "games/Merge a Spinner! [101396571928321].lua",
+   "size": 41420
+  },
+  {
+   "name": "Merge a Squishy",
+   "placeId": 117740102453431,
+   "file": "games/Merge a Squishy [117740102453431].lua",
+   "size": 33618
+  },
+  {
+   "name": "Merge a Tank",
+   "placeId": 121582128546193,
+   "file": "games/Merge a Tank [121582128546193].lua",
+   "size": 31950
+  },
+  {
+   "name": "Merge an SCP",
+   "placeId": 70904050766278,
+   "file": "games/Merge an SCP [70904050766278].lua",
+   "size": 120263
+  },
+  {
+   "name": "Merge Anime Defender",
+   "placeId": 98168250096750,
+   "file": "games/Merge Anime Defender [98168250096750].lua",
+   "size": 28964
+  },
+  {
+   "name": "Merge Hackers",
+   "placeId": 135169917851408,
+   "file": "games/Merge Hackers [135169917851408].lua",
+   "size": 84225
+  },
+  {
+   "name": "Merge Plants vs Mobs",
+   "placeId": 111996161342573,
+   "file": "games/Merge Plants vs Mobs [111996161342573].lua",
+   "size": 41737
+  },
+  {
+   "name": "Merge Swords And Kill Zombies!",
+   "placeId": 122004026354492,
+   "file": "games/Merge Swords And Kill Zombies! [122004026354492].lua",
+   "size": 39426
+  },
+  {
+   "name": "Merge Vs Mobs",
+   "placeId": 109509628648368,
+   "file": "games/Merge Vs Mobs [109509628648368].lua",
+   "size": 153667
+  },
+  {
+   "name": "Mine a Mountain",
+   "placeId": 125927821145949,
+   "file": "games/Mine a Mountain [125927821145949].lua",
+   "size": 82055
+  },
+  {
+   "name": "Mine RNG",
+   "placeId": 84745252930301,
+   "file": "games/Mine RNG [84745252930301].lua",
+   "size": 36456
+  },
+  {
+   "name": "Mini War",
+   "placeId": 131346454575416,
+   "file": "games/Mini War [131346454575416].lua",
+   "size": 87811
+  },
+  {
+   "name": "Missiles vs Cities",
+   "placeId": 112641748896693,
+   "file": "games/Missiles vs Cities [112641748896693].lua",
+   "size": 36617
+  },
+  {
+   "name": "Motorcycle for Animals",
+   "placeId": 84403204002907,
+   "file": "games/Motorcycle for Animals [84403204002907].lua",
+   "size": 72727
+  },
+  {
+   "name": "Mutant Plants Base Defense",
+   "placeId": 105954652742326,
+   "file": "games/Mutant Plants Base Defense [105954652742326].lua",
+   "size": 46695
+  },
+  {
+   "name": "My Anime Mine",
+   "placeId": 79389059854988,
+   "file": "games/My Anime Mine [79389059854988].lua",
+   "size": 85720
+  },
+  {
+   "name": "My Billionaire Zoo",
+   "placeId": 129441589031863,
+   "file": "games/My Billionaire Zoo [129441589031863].lua",
+   "size": 46617
+  },
+  {
+   "name": "My Dancing Animals!",
+   "placeId": 102602309625870,
+   "file": "games/My Dancing Animals! [102602309625870].lua",
+   "size": 71662
+  },
+  {
+   "name": "My Dealership",
+   "placeId": 115155881139305,
+   "file": "games/My Dealership [115155881139305].lua",
+   "size": 59711
+  },
+  {
+   "name": "My Dino Park!",
+   "placeId": 80701570784699,
+   "file": "games/My Dino Park! [80701570784699].lua",
+   "size": 26313
+  },
+  {
+   "name": "My Farmers Garden",
+   "placeId": 83581240126371,
+   "file": "games/My Farmers Garden [83581240126371].lua",
+   "size": 68223
+  },
+  {
+   "name": "My Flower Shop",
+   "placeId": 93028168925975,
+   "file": "games/My Flower Shop [93028168925975].lua",
+   "size": 56083
+  },
+  {
+   "name": "My Fruit Blender",
+   "placeId": 90716098954183,
+   "file": "games/My Fruit Blender [90716098954183].lua",
+   "size": 64252
+  },
+  {
+   "name": "My Giant Farm",
+   "placeId": 98906051062892,
+   "file": "games/My Giant Farm [98906051062892].lua",
+   "size": 53807
+  },
+  {
+   "name": "My Grass Farm",
+   "placeId": 98073123711869,
+   "file": "games/My Grass Farm [98073123711869].lua",
+   "size": 60935
+  },
+  {
+   "name": "My Lucky Train",
+   "placeId": 122245209010944,
+   "file": "games/My Lucky Train [122245209010944].lua",
+   "size": 58319
+  },
+  {
+   "name": "My Moo Farm",
+   "placeId": 134807373415131,
+   "file": "games/My Moo Farm [134807373415131].lua",
+   "size": 33761
+  },
+  {
+   "name": "My Pet Farm",
+   "placeId": 83847197909679,
+   "file": "games/My Pet Farm [83847197909679].lua",
+   "size": 32197
+  },
+  {
+   "name": "My Seafood Stand",
+   "placeId": 72896199592423,
+   "file": "games/My Seafood Stand [72896199592423].lua",
+   "size": 130810
+  },
+  {
+   "name": "My Sword Empire",
+   "placeId": 108364799245223,
+   "file": "games/My Sword Empire [108364799245223].lua",
+   "size": 42154
+  },
+  {
+   "name": "My Timber Pets!",
+   "placeId": 111035930019117,
+   "file": "games/My Timber Pets! [111035930019117].lua",
+   "size": 58419
+  },
+  {
+   "name": "My Toll Farm!",
+   "placeId": 96425088123775,
+   "file": "games/My Toll Farm! [96425088123775].lua",
+   "size": 49728
+  },
+  {
+   "name": "Oil Empire",
+   "placeId": 107095834793267,
+   "file": "games/Oil Empire [107095834793267].lua",
+   "size": 39146
+  },
+  {
+   "name": "Open Sea For Animals!",
+   "placeId": 88047783411976,
+   "file": "games/Open Sea For Animals! [88047783411976].lua",
+   "size": 85732
+  },
+  {
+   "name": "Pan The River",
+   "placeId": 102484409263550,
+   "file": "games/Pan The River [102484409263550].lua",
+   "size": 42315
+  },
+  {
+   "name": "Parkour Pandemic",
+   "placeId": 128718867767713,
+   "file": "games/Parkour Pandemic [128718867767713].lua",
+   "size": 44701
+  },
+  {
+   "name": "Penthouse Tycoon",
+   "placeId": 124943244212764,
+   "file": "games/Penthouse Tycoon [124943244212764].lua",
+   "size": 33047
+  },
+  {
+   "name": "Pet Forest",
+   "placeId": 83863726584027,
+   "file": "games/Pet Forest [83863726584027].lua",
+   "size": 54761
+  },
+  {
+   "name": "Pets Universe!",
+   "placeId": 74629631798007,
+   "file": "games/Pets Universe! [74629631798007].lua",
+   "size": 83336
+  },
+  {
+   "name": "Pickaxe Tycoon",
+   "placeId": 73814003954154,
+   "file": "games/Pickaxe Tycoon [73814003954154].lua",
+   "size": 39427
+  },
+  {
+   "name": "Pop a Balloon RNG",
+   "placeId": 108098130071760,
+   "file": "games/Pop a Balloon RNG [108098130071760].lua",
+   "size": 63045
+  },
+  {
+   "name": "Pop Bubbles!",
+   "placeId": 72390882197205,
+   "file": "games/Pop Bubbles! [72390882197205].lua",
+   "size": 98955
+  },
+  {
+   "name": "Power a City",
+   "placeId": 127475054933484,
+   "file": "games/Power a City [127475054933484].lua",
+   "size": 59994
+  },
+  {
+   "name": "Power Your City",
+   "placeId": 81549698024226,
+   "file": "games/Power Your City [81549698024226].lua",
+   "size": 54109
+  },
+  {
+   "name": "Press a Keycap!",
+   "placeId": 128363460800653,
+   "file": "games/Press a Keycap! [128363460800653].lua",
+   "size": 42655
+  },
+  {
+   "name": "Project Aura RNG",
+   "placeId": 129619503633658,
+   "file": "games/Project Aura RNG [129619503633658].lua",
+   "size": 82013
+  },
+  {
+   "name": "Prospecting!",
+   "placeId": 129827112113663,
+   "file": "games/Prospecting! [129827112113663].lua",
+   "size": 908269
+  },
+  {
+   "name": "Pull a Lucky Fish",
+   "placeId": 112781315318195,
+   "file": "games/Pull a Lucky Fish [112781315318195].lua",
+   "size": 245878
+  },
+  {
+   "name": "Race for Eggs",
+   "placeId": 122278212262864,
+   "file": "games/Race for Eggs [122278212262864].lua",
+   "size": 148206
+  },
+  {
+   "name": "Race Horses",
+   "placeId": 79475945127283,
+   "file": "games/Race Horses [79475945127283].lua",
+   "size": 71295
+  },
+  {
+   "name": "Raise an Anomaly",
+   "placeId": 71443883879110,
+   "file": "games/Raise an Anomaly [71443883879110].lua",
+   "size": 100710
+  },
+  {
+   "name": "RE Heads Please!",
+   "placeId": 113099333239841,
+   "file": "games/RE Heads Please! [113099333239841].lua",
+   "size": 47146
+  },
+  {
+   "name": "Rebirth Frenzy",
+   "placeId": 122598478666085,
+   "file": "games/Rebirth Frenzy [122598478666085].lua",
+   "size": 55435
+  },
+  {
+   "name": "REELED Shoot Fish!",
+   "placeId": 137783946150684,
+   "file": "games/REELED Shoot Fish! [137783946150684].lua",
+   "size": 76489
+  },
+  {
+   "name": "Rescue Animals!",
+   "placeId": 108454764166583,
+   "file": "games/Rescue Animals! [108454764166583].lua",
+   "size": 74304
+  },
+  {
+   "name": "Ride A Pet",
+   "placeId": 124216119978534,
+   "file": "games/Ride A Pet [124216119978534].lua",
+   "size": 199785
+  },
+  {
+   "name": "RNG vs Fruit",
+   "placeId": 109123260298300,
+   "file": "games/RNG vs Fruit [109123260298300].lua",
+   "size": 29728
+  },
+  {
+   "name": "Roll a Fisherman",
+   "placeId": 90920025162454,
+   "file": "games/Roll a Fisherman [90920025162454].lua",
+   "size": 150567
+  },
+  {
+   "name": "Roll A Gnome",
+   "placeId": 117539213094671,
+   "file": "games/Roll A Gnome [117539213094671].lua",
+   "size": 67765
+  },
+  {
+   "name": "Roll a Sorcerer",
+   "placeId": 77876346348868,
+   "file": "games/Roll a Sorcerer [77876346348868].lua",
+   "size": 42097
+  },
+  {
+   "name": "Roll a Spirit",
+   "placeId": 122719589673344,
+   "file": "games/Roll a Spirit [122719589673344].lua",
+   "size": 49803
+  },
+  {
+   "name": "Roll an Anime",
+   "placeId": 93999763241813,
+   "file": "games/Roll an Anime [93999763241813].lua",
+   "size": 23376
+  },
+  {
+   "name": "Roll an Anime (rollanimedice)",
+   "placeId": 93999763241813,
+   "file": "games/Roll an Anime [93999763241813] (rollanimedice).lua",
+   "size": 59479
+  },
+  {
+   "name": "Roll an ARMY",
+   "placeId": 81043694560974,
+   "file": "games/Roll an ARMY [81043694560974].lua",
+   "size": 51541
+  },
+  {
+   "name": "Roll An Army!",
+   "placeId": 72216345408467,
+   "file": "games/Roll An Army! [72216345408467].lua",
+   "size": 56032
+  },
+  {
+   "name": "Roll Anime & Fight",
+   "placeId": 115690665465501,
+   "file": "games/Roll Anime & Fight [115690665465501].lua",
+   "size": 88806
+  },
+  {
+   "name": "Roll Anime to Fight!",
+   "placeId": 107653945083776,
+   "file": "games/Roll Anime to Fight! [107653945083776].lua",
+   "size": 168782
+  },
+  {
+   "name": "Roll for Anime!",
+   "placeId": 107706720875645,
+   "file": "games/Roll for Anime! [107706720875645].lua",
+   "size": 19452
+  },
+  {
+   "name": "Roll For Avatar Items",
+   "placeId": 122854503601959,
+   "file": "games/Roll For Avatar Items [122854503601959].lua",
+   "size": 51393
+  },
+  {
+   "name": "Roll for Chiikawa !",
+   "placeId": 79237098587493,
+   "file": "games/Roll for Chiikawa ! [79237098587493].lua",
+   "size": 47362
+  },
+  {
+   "name": "Roll to Defend",
+   "placeId": 129559579789369,
+   "file": "games/Roll to Defend [129559579789369].lua",
+   "size": 62967
+  },
+  {
+   "name": "Roll to Survive",
+   "placeId": 132508978828159,
+   "file": "games/Roll to Survive [132508978828159].lua",
+   "size": 94268
+  },
+  {
+   "name": "Roll Your Army!",
+   "placeId": 83660368690441,
+   "file": "games/Roll Your Army! [83660368690441].lua",
+   "size": 56869
+  },
+  {
+   "name": "Roller for Animals!",
+   "placeId": 88910662712492,
+   "file": "games/Roller for Animals! [88910662712492].lua",
+   "size": 88878
+  },
+  {
+   "name": "RUNAWAYS",
+   "placeId": 118418618261207,
+   "file": "games/RUNAWAYS [118418618261207].lua",
+   "size": 92854
+  },
+  {
+   "name": "Saber Simulator",
+   "placeId": 3823781113,
+   "file": "games/Saber Simulator [3823781113].lua",
+   "size": 223043
+  },
+  {
+   "name": "Sail For Eggs",
+   "placeId": 121443295737695,
+   "file": "games/Sail For Eggs [121443295737695].lua",
+   "size": 53785
+  },
+  {
+   "name": "Save Animals!",
+   "placeId": 123822115505881,
+   "file": "games/Save Animals! [123822115505881].lua",
+   "size": 35903
+  },
+  {
+   "name": "Save Your Cat",
+   "placeId": 119427438574114,
+   "file": "games/Save Your Cat [119427438574114].lua",
+   "size": 65366
+  },
+  {
+   "name": "Scale Slimy Fish",
+   "placeId": 82208825713916,
+   "file": "games/Scale Slimy Fish [82208825713916].lua",
+   "size": 73821
+  },
+  {
+   "name": "Sell Ores",
+   "placeId": 122572082932179,
+   "file": "games/Sell Ores [122572082932179].lua",
+   "size": 63660
+  },
+  {
+   "name": "Shuffle an Egg",
+   "placeId": 79226825467411,
+   "file": "games/Shuffle an Egg [79226825467411].lua",
+   "size": 237841
+  },
+  {
+   "name": "Slap to Survive",
+   "placeId": 112796336189704,
+   "file": "games/Slap to Survive [112796336189704].lua",
+   "size": 26753
+  },
+  {
+   "name": "Slime Card Collection",
+   "placeId": 98951612738714,
+   "file": "games/Slime Card Collection [98951612738714].lua",
+   "size": 70736
+  },
+  {
+   "name": "Snatch a Seed",
+   "placeId": 121180020176396,
+   "file": "games/Snatch a Seed [121180020176396].lua",
+   "size": 64821
+  },
+  {
+   "name": "Snowcone Stand",
+   "placeId": 76113971506717,
+   "file": "games/Snowcone Stand [76113971506717].lua",
+   "size": 39231
+  },
+  {
+   "name": "Soccer Manager",
+   "placeId": 83988958116126,
+   "file": "games/Soccer Manager [83988958116126].lua",
+   "size": 90029
+  },
+  {
+   "name": "Spin a Car",
+   "placeId": 136758055891411,
+   "file": "games/Spin a Car [136758055891411].lua",
+   "size": 10177
+  },
+  {
+   "name": "Spin a Fem!",
+   "placeId": 91203203156283,
+   "file": "games/Spin a Fem! [91203203156283].lua",
+   "size": 31700
+  },
+  {
+   "name": "Spin a Superhero!",
+   "placeId": 130602523975656,
+   "file": "games/Spin a Superhero! [130602523975656].lua",
+   "size": 66124
+  },
+  {
+   "name": "Star Catchers",
+   "placeId": 70654975563721,
+   "file": "games/Star Catchers [70654975563721].lua",
+   "size": 65002
+  },
+  {
+   "name": "Steal a Baby Egg",
+   "placeId": 112530679555916,
+   "file": "games/Steal a Baby Egg [112530679555916].lua",
+   "size": 74495
+  },
+  {
+   "name": "Steal a Giant Egg",
+   "placeId": 136448020793455,
+   "file": "games/Steal a Giant Egg [136448020793455].lua",
+   "size": 81170
+  },
+  {
+   "name": "Steal A Lucky Egg",
+   "placeId": 123698673940079,
+   "file": "games/Steal A Lucky Egg [123698673940079].lua",
+   "size": 63590
+  },
+  {
+   "name": "Steal a Mystery Egg",
+   "placeId": 137789242313999,
+   "file": "games/Steal a Mystery Egg [137789242313999].lua",
+   "size": 80372
+  },
+  {
+   "name": "Steal A Seed For Bees",
+   "placeId": 87026033799342,
+   "file": "games/Steal A Seed For Bees [87026033799342].lua",
+   "size": 83744
+  },
+  {
+   "name": "Steal A Seed!",
+   "placeId": 122216176958450,
+   "file": "games/Steal A Seed! [122216176958450].lua",
+   "size": 81031
+  },
+  {
+   "name": "Steal A Tree!",
+   "placeId": 132958491990446,
+   "file": "games/Steal A Tree! [132958491990446].lua",
+   "size": 63169
+  },
+  {
+   "name": "Steal A Verity!",
+   "placeId": 107164765081465,
+   "file": "games/Steal A Verity! [107164765081465].lua",
+   "size": 124816
+  },
+  {
+   "name": "Steal an Anime Egg!",
+   "placeId": 76377501906469,
+   "file": "games/Steal an Anime Egg! [76377501906469].lua",
+   "size": 141089
+  },
+  {
+   "name": "Steal An Egg",
+   "placeId": 107778070777162,
+   "file": "games/Steal An Egg [107778070777162].lua",
+   "size": 1115
+  },
+  {
+   "name": "Steal an Egg for Squishy Dumplings!",
+   "placeId": 134679507313109,
+   "file": "games/Steal an Egg for Squishy Dumplings! [134679507313109].lua",
+   "size": 89086
+  },
+  {
+   "name": "Steal an Employee",
+   "placeId": 140623702130018,
+   "file": "games/Steal an Employee [140623702130018].lua",
+   "size": 105847
+  },
+  {
+   "name": "Steal Anime Eggs",
+   "placeId": 96727061242653,
+   "file": "games/Steal Anime Eggs [96727061242653].lua",
+   "size": 69855
+  },
+  {
+   "name": "Steal Anime Eggs & FIGHT!",
+   "placeId": 137671992254032,
+   "file": "games/Steal Anime Eggs & FIGHT! [137671992254032].lua",
+   "size": 81426
+  },
+  {
+   "name": "Steal Brainrot Eggs",
+   "placeId": 104469958681645,
+   "file": "games/Steal Brainrot Eggs [104469958681645].lua",
+   "size": 70216
+  },
+  {
+   "name": "Steal Fish Eggs",
+   "placeId": 99183404085821,
+   "file": "games/Steal Fish Eggs [99183404085821].lua",
+   "size": 57900
+  },
+  {
+   "name": "Steal From The Rich!",
+   "placeId": 120475074479690,
+   "file": "games/Steal From The Rich! [120475074479690].lua",
+   "size": 81643
+  },
+  {
+   "name": "Steal The Museum",
+   "placeId": 88237852656234,
+   "file": "games/Steal The Museum [88237852656234].lua",
+   "size": 72315
+  },
+  {
+   "name": "Stop The Bugs",
+   "placeId": 117747672521418,
+   "file": "games/Stop The Bugs [117747672521418].lua",
+   "size": 35408
+  },
+  {
+   "name": "Storage Hunters Open World",
+   "placeId": 98800969324557,
+   "file": "games/Storage Hunters Open World [98800969324557].lua",
+   "size": 691538
+  },
+  {
+   "name": "Stream A Cheese Pull!",
+   "placeId": 124293095895786,
+   "file": "games/Stream A Cheese Pull! [124293095895786].lua",
+   "size": 59854
+  },
+  {
+   "name": "Surf And Rescue",
+   "placeId": 120252007682677,
+   "file": "games/Surf And Rescue [120252007682677].lua",
+   "size": 120514
+  },
+  {
+   "name": "Surf for Animals!",
+   "placeId": 96612869170793,
+   "file": "games/Surf for Animals! [96612869170793].lua",
+   "size": 250765
+  },
+  {
+   "name": "Survive Anime Arena",
+   "placeId": 134900842931883,
+   "file": "games/Survive Anime Arena [134900842931883].lua",
+   "size": 75143
+  },
+  {
+   "name": "Survive Lava for Animals",
+   "placeId": 127082754898219,
+   "file": "games/Survive Lava for Animals [127082754898219].lua",
+   "size": 220046
+  },
+  {
+   "name": "Survive The Swarm",
+   "placeId": 100227226022278,
+   "file": "games/Survive The Swarm [100227226022278].lua",
+   "size": 156429
+  },
+  {
+   "name": "Survive Zombie Arena",
+   "placeId": 114204398207377,
+   "file": "games/Survive Zombie Arena [114204398207377].lua",
+   "size": 16697
+  },
+  {
+   "name": "Swim For Eggs!",
+   "placeId": 113956654824187,
+   "file": "games/Swim For Eggs! [113956654824187].lua",
+   "size": 66790
+  },
+  {
+   "name": "Swing For Eggs",
+   "placeId": 109203247742910,
+   "file": "games/Swing For Eggs [109203247742910].lua",
+   "size": 79517
+  },
+  {
+   "name": "Sword RNG X",
+   "placeId": 88723502997575,
+   "file": "games/Sword RNG X [88723502997575].lua",
+   "size": 240417
+  },
+  {
+   "name": "Tap 4 Money",
+   "placeId": 125410772032969,
+   "file": "games/Tap 4 Money [125410772032969].lua",
+   "size": 35340
+  },
+  {
+   "name": "Tap Buttons!",
+   "placeId": 77404766588393,
+   "file": "games/Tap Buttons! [77404766588393].lua",
+   "size": 144747
+  },
+  {
+   "name": "The Veil",
+   "placeId": 125503525638054,
+   "file": "games/The Veil [125503525638054].lua",
+   "size": 75365
+  },
+  {
+   "name": "Throw a Coin",
+   "placeId": 115681808123944,
+   "file": "games/Throw a Coin [115681808123944].lua",
+   "size": 91358
+  },
+  {
+   "name": "Throw an Anime Coin!",
+   "placeId": 105198923939638,
+   "file": "games/Throw an Anime Coin! [105198923939638].lua",
+   "size": 36975
+  },
+  {
+   "name": "Toss a Dice",
+   "placeId": 89614588403906,
+   "file": "games/Toss a Dice [89614588403906].lua",
+   "size": 53685
+  },
+  {
+   "name": "Tower VS Slimes",
+   "placeId": 78417665924734,
+   "file": "games/Tower VS Slimes [78417665924734].lua",
+   "size": 25676
+  },
+  {
+   "name": "Tree RNG",
+   "placeId": 85048226835181,
+   "file": "games/Tree RNG [85048226835181].lua",
+   "size": 173781
+  },
+  {
+   "name": "Tropical Resort Tycoon 2",
+   "placeId": 12338455185,
+   "file": "games/Tropical Resort Tycoon 2 [12338455185].lua",
+   "size": 36235
+  },
+  {
+   "name": "Ultimate Tower Defense",
+   "placeId": 5902977746,
+   "file": "games/Ultimate Tower Defense [5902977746].lua",
+   "size": 155726
+  },
+  {
+   "name": "Unbox ASMR!",
+   "placeId": 112233638491976,
+   "file": "games/Unbox ASMR! [112233638491976].lua",
+   "size": 68549
+  },
+  {
+   "name": "Unfreeze an Animal",
+   "placeId": 88773823105878,
+   "file": "games/Unfreeze an Animal [88773823105878].lua",
+   "size": 58697
+  },
+  {
+   "name": "Untitled Melee RNG",
+   "placeId": 99248392277037,
+   "file": "games/Untitled Melee RNG [99248392277037].lua",
+   "size": 115791
+  },
+  {
+   "name": "Where Seasons Pass",
+   "placeId": 133288411471369,
+   "file": "games/Where Seasons Pass [133288411471369].lua",
+   "size": 156357
+  },
+  {
+   "name": "Your Lumber Farm!",
+   "placeId": 84400387456675,
+   "file": "games/Your Lumber Farm! [84400387456675].lua",
+   "size": 74481
+  },
+  {
+   "name": "Zombies",
+   "placeId": 80111254680893,
+   "file": "games/Zombies [80111254680893].lua",
+   "size": 66148
+  },
+  {
+   "name": "Zone Defense RNG",
+   "placeId": 71607575632633,
+   "file": "games/Zone Defense RNG [71607575632633].lua",
+   "size": 50909
+  }
+ ]
+}
