@@ -40,7 +40,7 @@ purely by that PlaceId.
 
 ## Credits & notes
 
-- Script sources: the deobfuscated **Ouroboros** collection (public dump).
+- Script sources: the deobfuscated collection (public dump).
 - Many scripts load their own UI (Obsidian library) at runtime.
 - Hub GUI built from scratch for this project.
 - Running executor scripts violates Roblox's ToS and can get your account
